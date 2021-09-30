@@ -1,0 +1,9 @@
+{
+	"name": "gopigithubadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7b53beb-8c5d-4519-ac3e-0132fad93a46",
+		"tenantId": "6a3ecc58-1373-48eb-8ab8-42c8925a14e9"
+	}
+}
